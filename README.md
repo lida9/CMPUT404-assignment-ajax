@@ -12,4 +12,10 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+Contributor: Lida Ling
 
+
+
+Reference
+========================
+https://stackoverflow.com/a/1484514/13544994 for random colour function
